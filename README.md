@@ -98,7 +98,7 @@ The notebook also visualizes the **magnitude spectrum** and **Gabor-filtered tex
 
 ---
 
-## 📝 License
+## 📝 License :
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
