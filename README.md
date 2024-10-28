@@ -77,7 +77,7 @@ Below are examples of the outputs from different techniques:
 Sobel X and Y Edge Detection
 <p align="center"> <img src="https://user-images.githubusercontent.com/sobel-example" alt="Sobel Edge Detection" width="600"> </p>
 Gaussian Blur and Laplacian Edge Detection
-<p align="center"> <img src="https://user-images.githubusercontent.com/laplacian-example" alt="Laplacian Edge Detection" width="600"> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/44d5b67f-eada-4f4f-9c33-93f40be65ce0" alt="Laplacian Edge Detection" width="600"> </p>
 
 ## 🎨 Visualization
 The notebook also visualizes the **magnitude spectrum** and **Gabor-filtered textures**, showcasing how frequency analysis helps reveal underlying patterns in images.
