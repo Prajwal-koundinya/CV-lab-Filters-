@@ -3,7 +3,7 @@
 
 # 🌌 Image Processing Techniques: Edge Detection and Frequency Analysis
 
-<p align="center"> <img src="![image](https://github.com/user-attachments/assets/6a0ac76d-8aba-4f11-af03-7c4764e37f4c)" alt="Image Processing Example" width="600"> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/6a0ac76d-8aba-4f11-af03-7c4764e37f4c" alt="Image Processing Example" width="600"> </p>
 
 ## 🚀 Overview
 This project demonstrates fundamental **image processing techniques** using Python, including **Sobel edge detection**, **Gaussian blur**, **Laplacian filters**, and **Gabor filters**. These operations help detect edges, enhance features, and analyze textures in images.
